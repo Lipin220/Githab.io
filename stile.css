@@ -1,0 +1,36 @@
+
+p{
+    color: brown;
+    font-weight: bold;
+    
+}
+
+
+#idP {
+    font-size: 45px;
+    color: blue;
+}
+
+.alert{
+    color: aqua;
+}
+.alert-error{
+    color: blue;
+}
+.blockDiv{
+    height: 60px;
+    color: blue;
+}
+
+div{
+    height: 200px;
+    color: blueviolet;
+}
+#idDiv{
+    background-color: chartreuse;
+}
+
+
+div#idDiv{
+    color: brown;
+} 
